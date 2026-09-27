@@ -327,7 +327,7 @@ export const portfolioData = {
     ['Email', 'psagar2@asu.edu'],
     ['Location', 'San Francisco, California'],
     ['Source', 'github.com/perhapspranav/pranavsagar.us'],
-    ['LinkedIn', 'linkedin.com/in/pranav-sagar-whythisurlissolong'],
+    ['LinkedIn', 'linkedin.com/in/perhapspranav'],
     ['GitHub', 'github.com/perhapspranav'],
     ['YouTube', 'youtube.com/channel/UCqW724oz1dQXOleEUy9HRCg'],
     ['Instagram', 'instagram.com/perhapspranav'],
@@ -337,7 +337,7 @@ export const portfolioData = {
     { label: 'Source', href: 'https://github.com/perhapspranav/pranavsagar.us' },
     {
       label: 'LinkedIn',
-      href: 'https://www.linkedin.com/in/pranav-sagar-whythisurlissolong/',
+      href: 'https://www.linkedin.com/in/perhapspranav/',
     },
     { label: 'GitHub', href: 'https://github.com/perhapspranav' },
     {

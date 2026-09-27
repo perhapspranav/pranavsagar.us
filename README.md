@@ -178,6 +178,6 @@ Code is released under the [MIT License](LICENSE). Personal content, images, aud
 
 Built by [Pranav Sagar](https://github.com/perhapspranav)
 
-[Website](https://pranavsagar.us) · [LinkedIn](https://www.linkedin.com/in/pranav-sagar-whythisurlissolong/) · [GitHub](https://github.com/perhapspranav) · [Instagram](https://www.instagram.com/perhapspranav)
+[Website](https://pranavsagar.us) · [LinkedIn](https://www.linkedin.com/in/perhapspranav/) · [GitHub](https://github.com/perhapspranav) · [Instagram](https://www.instagram.com/perhapspranav)
 
 </div>

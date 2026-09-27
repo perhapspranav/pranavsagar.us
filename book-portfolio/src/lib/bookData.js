@@ -41,7 +41,7 @@ export const menuLinks = [
   sourceRepository,
   {
     label: 'LinkedIn',
-    href: 'https://www.linkedin.com/in/pranav-sagar-whythisurlissolong/',
+    href: 'https://www.linkedin.com/in/perhapspranav/',
   },
   { label: 'GitHub', href: 'https://github.com/perhapspranav' },
   {
