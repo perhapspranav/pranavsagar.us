@@ -83,7 +83,7 @@ Contact ─── Social ─── Finale ─── Back Cover
 ## Quick start
 
 ```bash
-git clone https://github.com/psagar29/pranavsagar.us.git
+git clone https://github.com/perhapspranav/pranavsagar.us.git
 cd pranavsagar.us/book-portfolio
 npm install
 npm run dev
@@ -176,8 +176,8 @@ Code is released under the [MIT License](LICENSE). Personal content, images, aud
 
 <div align="center">
 
-Built by [Pranav Sagar](https://github.com/psagar29)
+Built by [Pranav Sagar](https://github.com/perhapspranav)
 
-[Website](https://pranavsagar.us) · [LinkedIn](https://www.linkedin.com/in/pranav-sagar-whythisurlissolong/) · [GitHub](https://github.com/psagar29) · [Instagram](https://www.instagram.com/perhapspranav)
+[Website](https://pranavsagar.us) · [LinkedIn](https://www.linkedin.com/in/pranav-sagar-whythisurlissolong/) · [GitHub](https://github.com/perhapspranav) · [Instagram](https://www.instagram.com/perhapspranav)
 
 </div>
