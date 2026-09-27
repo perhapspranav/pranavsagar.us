@@ -8,7 +8,7 @@ export const bookMeta = {
 
 export const sourceRepository = {
   label: 'GitHub',
-  href: 'https://github.com/psagar29/pranavsagar.us',
+  href: 'https://github.com/perhapspranav/pranavsagar.us',
 }
 
 export const pages = [
@@ -43,7 +43,7 @@ export const menuLinks = [
     label: 'LinkedIn',
     href: 'https://www.linkedin.com/in/pranav-sagar-whythisurlissolong/',
   },
-  { label: 'GitHub', href: 'https://github.com/psagar29' },
+  { label: 'GitHub', href: 'https://github.com/perhapspranav' },
   {
     label: 'YouTube',
     href: 'https://www.youtube.com/channel/UCqW724oz1dQXOleEUy9HRCg',
